@@ -1,4 +1,4 @@
-# Spring-Boot-for-InvoiceQREncrypter
+# Spring Boot for InvoiceQREncrypter
 Cipher AESkey and invoicenumber+Random
 
 Example:
